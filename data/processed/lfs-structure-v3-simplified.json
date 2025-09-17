@@ -1,0 +1,117 @@
+{
+    "FL_paradigmatiques": {
+        "Substitutive": {
+            "Subst_sens_similaire": {
+                "Syn": {},
+                "Gener": {}
+            },
+            "Subst_sens_opposé": {
+                "Anti": {},
+                "Contr": {},
+                "Conv-ij": {}
+            }
+        },
+        "Dérivation_nominale": {
+            "S0": {},
+            "N_dériv_ajout_de_sens": {
+                "S_i": {
+                    "S1": {},
+                    "S2": {},
+                    "S3": {}
+                },
+                "N_dériv_circonstancielle": {
+                    "Sinstr": {},
+                    "Sloc": {},
+                    "Sres": {}
+                }
+            }
+        },
+        "Dérivation_adjectivale": {
+            "A0": {},
+            "A_dériv_ajout_de_sens": {
+                "A_i": {
+                    "A1": {},
+                    "A2": {}
+                },
+                "A_dériv_qualificative": {
+                    "Able_i": {
+                        "Able1": {},
+                        "Able2": {}
+                    },
+                    "Qual1": {}
+                }
+            }
+        },
+        "Dérivation_adverbiale": {
+            "Adv0": {},
+            "Adv1": {}
+        },
+        "Dérivation_verbale": {
+            "V_dériv_sens_vide": {
+                "V0": {},
+                "Pred": {}
+            },
+            "Result2": {}
+        }
+    },
+    "FL_syntagmatiques": {
+        "Modificateur": {
+            "Modif_sens_vide": {
+                "Epit": {},
+                "Redun": {}
+            },
+            "Modif_ajout_de_sens": {
+                "Magn": {},
+                "Ver": {},
+                "Bon": {}
+            }
+        },
+        "Colloc_préposition": {
+            "Loc": {},
+            "Instr": {}
+        },
+        "Nom_gouverneur": {
+            "Singulier": {
+                "Cap": {},
+                "Sing": {}
+            },
+            "Mult": {}
+        },
+        "Collocation_verbale": {
+            "Verbe_support": {
+                "Func_i": {
+                    "Func0": {},
+                    "Func2": {}
+                },
+                "Oper_i": {
+                    "Oper1": {},
+                    "Oper2": {}
+                }
+            },
+            "V_collocation_ajout_de_sens": {
+                "Vreal": {
+                    "Real_i": {
+                        "Real1": {},
+                        "Real2": {},
+                        "Real3": {},
+                        "RealΩ": {}
+                    },
+                    "Fact_i": {
+                        "Fact0": {},
+                        "Fact1": {},
+                        "Fact2": {}
+                    },
+                    "Labreal12": {}
+                },
+                "Verbes_de_phase": {
+                    "Incep": {},
+                    "Fin": {}
+                },
+                "Verbes_causatifs": {
+                    "Caus": {},
+                    "Liqu": {}
+                }
+            }
+        }
+    }
+}
